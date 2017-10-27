@@ -1,0 +1,522 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyPrompts</name>
+    </assembly>
+    <members>
+        <member name="T:MyPrompts.PromptProperties`1">
+            <summary>
+            MyPrompts properties each prompt class inherites these properties
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:MyPrompts.PromptProperties`1.ErrorColor">
+            <summary>
+            ErrorColor properties to get and set Error color for prompting to try again on invalid answers
+            </summary>
+        </member>
+        <member name="P:MyPrompts.PromptProperties`1.ErrorMessage">
+            <summary>
+            ErrorMessage properties to get and set Error message for prompting to try again on invalid answers
+            </summary>
+        </member>
+        <member name="P:MyPrompts.PromptProperties`1.ErrorTitle">
+            <summary>
+            ErrorTitle properties to get and set Error title for prompting to try again on invalid answers
+            </summary>
+        </member>
+        <member name="P:MyPrompts.PromptProperties`1.MyErrorMessage">
+            <summary>
+            myErrorMessage properties to get and set static ErrorMessage properties for objects
+            </summary>
+        </member>
+        <member name="P:MyPrompts.PromptProperties`1.MyErrorTitle">
+            <summary>
+            myErrorTitle properties to get and set static ErrorTitle properties for objects
+            </summary>
+        </member>
+        <member name="M:MyPrompts.PromptProperties`1.TryParse``1(System.Object,``0@)">
+            <summary>
+            Generic Type converstion TryParse
+            </summary>
+            <typeparam name="Z"></typeparam>
+            <param name="input"></param>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="T:MyPrompts.Prompts`1">
+            <summary>
+            Prompt object for new instances of Prompts
+            </summary>
+        </member>
+        <member name="M:MyPrompts.Prompts`1.#ctor(System.String,System.ConsoleColor,System.String)">
+            <summary>
+            Constructor for Prompts object with optional errorMessage, errorColor, and errorTitle parameters
+            </summary>
+        </member>
+        <member name="M:MyPrompts.Prompts`1.ConsolePrompt(System.String)">
+            <summary>
+            ConsolePrompt for new instances
+            </summary>
+            <param name="prompt"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MyPrompts.Prompts`1.ConsolePrompt``1(System.String)">
+            <summary>
+            ConsolePrompt for new instances to change generic type
+            </summary>
+            <typeparam name="S"></typeparam>
+            <param name="prompt"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MyPrompts.Prompts`1.MessagePrompt(System.String)">
+            <summary>
+            MessagePrompt for new instances
+            </summary>
+            <param name="prompt"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MyPrompts.Prompts`1.MessagePrompt``1(System.String)">
+            <summary>
+            MessagePrompt for new instances to change generic type
+            </summary>
+            <typeparam name="S"></typeparam>
+            <param name="prompt"></param>
+            <returns></returns>
+        </member>
+        <member name="T:MyPrompts.MessagePrompts`1">
+            <summary>
+            ConsolePrompts that on Error display an Error MessageBox
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.#ctor(System.String,System.String)">
+            <summary>
+            Constructor for MessagePrompt object with optional errorMessage, and errorTitle parameters
+            </summary>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.Prompt(System.String)">
+            <summary>
+            Prompts user for input and returns input for storage into variable; error shows as MessageBox
+            </summary>
+            <param name="prompt"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.Prompt``1(System.String)">
+            <summary>
+            Prompts user for input and returns input for storage into variable with a changed type; error shows as MessageBox
+            </summary>
+            <typeparam name="S"></typeparam>
+            <param name="prompt"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.PromptTemplate``1(System.String,``0@)">
+            <summary>
+            Prompts user for input and passes input out to a variable; error shows as MessageBox
+            </summary>
+            <param name="prompt"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.Prompt(System.String,`0@,System.String,`0@)">
+            <summary>
+            Prompts user for two inputs to pass to two variables; error shows as MessageBox
+            </summary>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.Prompt(System.String,`0@,System.String,`0@,System.String,`0@)">
+            <summary>
+            Prompts user for three inputs to pass to three variables; error shows as MessageBox
+            </summary>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.Prompt(System.String,`0@,System.String,`0@,System.String,`0@,System.String,`0@)">
+            <summary>
+            Prompts user for four inputs to pass to four variables; error shows as MessageBox
+            </summary>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+            <param name="prompt4"></param>
+            <param name="value4"></param>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.Prompt``1(System.String,`0@,System.String,``0@)">
+            <summary>
+            Prompts user for two inputs to pass to two variables of a different type; error shows as MessageBox
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.Prompt``1(System.String,`0@,System.String,`0@,System.String,``0@)">
+            <summary>
+            Prompts user for three inputs to pass to three variables with one of type U; error shows as MessageBox
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.Prompt``1(System.String,`0@,System.String,``0@,System.String,``0@)">
+            <summary>
+            Prompts user for three inputs to pass to three variables with two of type U; error shows as MessageBox
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.Prompt``2(System.String,`0@,System.String,``0@,System.String,``1@)">
+            <summary>
+            Prompts user for three inputs to pass to three variables with two different types; error shows as MessageBox
+            </summary>
+            <typeparam name="U"></typeparam>
+            <typeparam name="V"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.Prompt``1(System.String,`0@,System.String,`0@,System.String,`0@,System.String,``0@)">
+            <summary>
+            Prompts user for four inputs to pass to four variables with one of type U; error shows as MessageBox
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+            <param name="prompt4"></param>
+            <param name="value4"></param>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.Prompt``1(System.String,`0@,System.String,`0@,System.String,``0@,System.String,``0@)">
+            <summary>
+            Prompts user for four inputs to pass to four variables with two of type U; error shows as MessageBox
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+            <param name="prompt4"></param>
+            <param name="value4"></param>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.Prompt``1(System.String,`0@,System.String,``0@,System.String,``0@,System.String,``0@)">
+            <summary>
+            Prompts user for four inputs to pass to four variables with three of type U; error shows as MessageBox
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+            <param name="prompt4"></param>
+            <param name="value4"></param>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.Prompt``2(System.String,`0@,System.String,`0@,System.String,``0@,System.String,``1@)">
+            <summary>
+            Prompts user for four inputs to pass to four variables with two of differnt types: U and V; error shows as MessageBox
+            </summary>
+            <typeparam name="U"></typeparam>
+            <typeparam name="V"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+            <param name="prompt4"></param>
+            <param name="value4"></param>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.Prompt``2(System.String,`0@,System.String,``0@,System.String,``0@,System.String,``1@)">
+            <summary>
+            Prompts user for four inputs to pass to four variables with two of type U and one of type V; error shows as MessageBox
+            </summary>
+            <typeparam name="U"></typeparam>
+            <typeparam name="V"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+            <param name="prompt4"></param>
+            <param name="value4"></param>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.Prompt``2(System.String,`0@,System.String,``0@,System.String,``1@,System.String,``1@)">
+            <summary>
+            Prompts user for four inputs to pass to four variables with one of type U and two of type V; error shows as MessageBox
+            </summary>
+            <typeparam name="U"></typeparam>
+            <typeparam name="V"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+            <param name="prompt4"></param>
+            <param name="value4"></param>
+        </member>
+        <member name="M:MyPrompts.MessagePrompts`1.Prompt``3(System.String,`0@,System.String,``0@,System.String,``1@,System.String,``2@)">
+            <summary>
+            Prompts user for four inputs to pass to four variables of different types; error shows as MessageBox
+            </summary>
+            <typeparam name="U"></typeparam>
+            <typeparam name="V"></typeparam>
+            <typeparam name="W"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+            <param name="prompt4"></param>
+            <param name="value4"></param>
+        </member>
+        <member name="T:MyPrompts.ConsolePrompts`1">
+            <summary>
+            Prompts the user for input
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.#ctor(System.String,System.ConsoleColor)">
+            <summary>
+            Constructor for ConsolePrompt object with optional errorMessage and errorColor parameters
+            </summary>
+            <param name="errorMessage"></param>
+            <param name="errorColor"></param>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.Prompt(System.String)">
+            <summary>
+            Prompts user for input and returns input for storage into variable
+            </summary>
+            <param name="prompt"></param>
+            <returns>value to store into variable</returns>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.Prompt``1(System.String)">
+            <summary>
+            Prompts user for input and returns input for storage into variable with a changed type
+            </summary>
+            <typeparam name="S"></typeparam>
+            <param name="prompt"></param>
+            <returns>value to store into variable of a differnt type</returns>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.PromptTemplate``1(System.String,``0@)">
+            <summary>
+            Prompts user for input and passes input out to a variable.
+            </summary>
+            <param name="prompt"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.Prompt(System.String,`0@,System.String,`0@)">
+            <summary>
+            Prompts user for two inputs to pass to two variables
+            </summary>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.Prompt(System.String,`0@,System.String,`0@,System.String,`0@)">
+            <summary>
+            Prompts user for three inputs to pass to three variables
+            </summary>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.Prompt(System.String,`0@,System.String,`0@,System.String,`0@,System.String,`0@)">
+            <summary>
+            Prompts user for four inputs to pass to four variables
+            </summary>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+            <param name="prompt4"></param>
+            <param name="value4"></param>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.Prompt``1(System.String,`0@,System.String,``0@)">
+            <summary>
+            Prompts user for two inputs to pass to two variables of a different type
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.Prompt``1(System.String,`0@,System.String,`0@,System.String,``0@)">
+            <summary>
+            Prompts user for three inputs to pass to three variables with one of type U
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.Prompt``1(System.String,`0@,System.String,``0@,System.String,``0@)">
+            <summary>
+            Prompts user for three inputs to pass to three variables with two of type U
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.Prompt``2(System.String,`0@,System.String,``0@,System.String,``1@)">
+            <summary>
+            Prompts user for three inputs to pass to three variables with two different types
+            </summary>
+            <typeparam name="U"></typeparam>
+            <typeparam name="V"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.Prompt``1(System.String,`0@,System.String,`0@,System.String,`0@,System.String,``0@)">
+            <summary>
+            Prompts user for four inputs to pass to four variables with one of type U
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+            <param name="prompt4"></param>
+            <param name="value4"></param>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.Prompt``1(System.String,`0@,System.String,`0@,System.String,``0@,System.String,``0@)">
+            <summary>
+            Prompts user for four inputs to pass to four variables with two of type U
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+            <param name="prompt4"></param>
+            <param name="value4"></param>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.Prompt``1(System.String,`0@,System.String,``0@,System.String,``0@,System.String,``0@)">
+            <summary>
+            Prompts user for four inputs to pass to four variables with three of type U
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+            <param name="prompt4"></param>
+            <param name="value4"></param>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.Prompt``2(System.String,`0@,System.String,`0@,System.String,``0@,System.String,``1@)">
+            <summary>
+            Prompts user for four inputs to pass to four variables with two of differnt types: U and V
+            </summary>
+            <typeparam name="U"></typeparam>
+            <typeparam name="V"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+            <param name="prompt4"></param>
+            <param name="value4"></param>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.Prompt``2(System.String,`0@,System.String,``0@,System.String,``0@,System.String,``1@)">
+            <summary>
+            Prompts user for four inputs to pass to four variables with two of type U and one of type V
+            </summary>
+            <typeparam name="U"></typeparam>
+            <typeparam name="V"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+            <param name="prompt4"></param>
+            <param name="value4"></param>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.Prompt``2(System.String,`0@,System.String,``0@,System.String,``1@,System.String,``1@)">
+            <summary>
+            Prompts user for four inputs to pass to four variables with one of type U and two of type V
+            </summary>
+            <typeparam name="U"></typeparam>
+            <typeparam name="V"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+            <param name="prompt4"></param>
+            <param name="value4"></param>
+        </member>
+        <member name="M:MyPrompts.ConsolePrompts`1.Prompt``3(System.String,`0@,System.String,``0@,System.String,``1@,System.String,``2@)">
+            <summary>
+            Prompts user for four inputs to pass to four variables of different types
+            </summary>
+            <typeparam name="U"></typeparam>
+            <typeparam name="V"></typeparam>
+            <typeparam name="W"></typeparam>
+            <param name="prompt"></param>
+            <param name="value"></param>
+            <param name="prompt2"></param>
+            <param name="value2"></param>
+            <param name="prompt3"></param>
+            <param name="value3"></param>
+            <param name="prompt4"></param>
+            <param name="value4"></param>
+        </member>
+    </members>
+</doc>

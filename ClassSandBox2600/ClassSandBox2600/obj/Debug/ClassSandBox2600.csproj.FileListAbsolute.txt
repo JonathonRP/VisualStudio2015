@@ -1,0 +1,6 @@
+c:\users\reese\documents\visual studio 2015\Projects\ClassSandBox2600\ClassSandBox2600\bin\Debug\ClassSandBox2600.exe.config
+c:\users\reese\documents\visual studio 2015\Projects\ClassSandBox2600\ClassSandBox2600\bin\Debug\ClassSandBox2600.exe
+c:\users\reese\documents\visual studio 2015\Projects\ClassSandBox2600\ClassSandBox2600\bin\Debug\ClassSandBox2600.pdb
+c:\users\reese\documents\visual studio 2015\Projects\ClassSandBox2600\ClassSandBox2600\obj\Debug\ClassSandBox2600.csprojResolveAssemblyReference.cache
+c:\users\reese\documents\visual studio 2015\Projects\ClassSandBox2600\ClassSandBox2600\obj\Debug\ClassSandBox2600.exe
+c:\users\reese\documents\visual studio 2015\Projects\ClassSandBox2600\ClassSandBox2600\obj\Debug\ClassSandBox2600.pdb

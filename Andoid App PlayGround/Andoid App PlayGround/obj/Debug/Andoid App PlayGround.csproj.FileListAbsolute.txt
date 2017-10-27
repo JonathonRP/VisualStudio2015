@@ -1,0 +1,15 @@
+C:\Users\Reese\documents\visual studio 2015\Projects\Andoid App PlayGround\Andoid App PlayGround\bin\Debug\Andoid App PlayGround.dll
+C:\Users\Reese\documents\visual studio 2015\Projects\Andoid App PlayGround\Andoid App PlayGround\bin\Debug\Andoid App PlayGround.pdb
+C:\Users\Reese\documents\visual studio 2015\Projects\Andoid App PlayGround\Andoid App PlayGround\bin\Debug\Andoid_App_PlayGround.Andoid_App_PlayGround.apk
+C:\Users\Reese\documents\visual studio 2015\Projects\Andoid App PlayGround\Andoid App PlayGround\bin\Debug\Andoid_App_PlayGround.Andoid_App_PlayGround-Signed.apk
+C:\Users\Reese\documents\visual studio 2015\Projects\Andoid App PlayGround\Andoid App PlayGround\obj\Debug\Andoid App PlayGround.csprojResolveAssemblyReference.cache
+C:\Users\Reese\documents\visual studio 2015\Projects\Andoid App PlayGround\Andoid App PlayGround\obj\Debug\Andoid App PlayGround.dll
+C:\Users\Reese\documents\visual studio 2015\Projects\Andoid App PlayGround\Andoid App PlayGround\obj\Debug\Andoid App PlayGround.pdb
+C:\Users\Reese\documents\visual studio 2015\Projects\Andoid App PlayGround\Andoid App PlayGround\obj\Debug\android\bin\Andoid_App_PlayGround.Andoid_App_PlayGround.apk
+C:\Users\Reese\documents\visual studio 2015\Projects\Andoid App PlayGround\Andoid App PlayGround\obj\Debug\res\layout\main.xml
+C:\Users\Reese\documents\visual studio 2015\Projects\Andoid App PlayGround\Andoid App PlayGround\obj\Debug\res\values\strings.xml
+C:\Users\Reese\documents\visual studio 2015\Projects\Andoid App PlayGround\Andoid App PlayGround\obj\Debug\res\drawable\icon.png
+C:\Users\Reese\documents\visual studio 2015\Projects\Andoid App PlayGround\Andoid App PlayGround\obj\Debug\R.cs.flag
+C:\Users\Reese\documents\visual studio 2015\Projects\Andoid App PlayGround\Andoid App PlayGround\obj\Debug\uploadflags.txt
+C:\Users\Reese\documents\visual studio 2015\Projects\Andoid App PlayGround\Andoid App PlayGround\obj\Debug\Andoid App PlayGround.dll.mdb
+C:\Users\Reese\documents\visual studio 2015\Projects\Andoid App PlayGround\Andoid App PlayGround\bin\Debug\Andoid App PlayGround.dll.mdb

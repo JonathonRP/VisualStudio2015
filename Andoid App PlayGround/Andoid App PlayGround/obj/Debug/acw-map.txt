@@ -1,0 +1,4 @@
+Andoid_App_PlayGround.MainActivity, Andoid App PlayGround;md5dfe951f75bd81437cadd7cfd7db8fdf9.MainActivity
+Andoid_App_PlayGround.MainActivity, Andoid App PlayGround, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5dfe951f75bd81437cadd7cfd7db8fdf9.MainActivity
+Andoid_App_PlayGround.MainActivity;md5dfe951f75bd81437cadd7cfd7db8fdf9.MainActivity
+andoid_app_playground.MainActivity;md5dfe951f75bd81437cadd7cfd7db8fdf9.MainActivity

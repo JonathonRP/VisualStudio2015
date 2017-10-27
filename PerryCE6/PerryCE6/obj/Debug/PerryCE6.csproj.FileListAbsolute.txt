@@ -1,0 +1,12 @@
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryCE6\PerryCE6\bin\Debug\PerryCE6.exe.config
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryCE6\PerryCE6\bin\Debug\PerryCE6.exe
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryCE6\PerryCE6\bin\Debug\PerryCE6.pdb
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryCE6\PerryCE6\obj\Debug\PerryCE6.csprojResolveAssemblyReference.cache
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryCE6\PerryCE6\obj\Debug\PerryCE6.exe
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryCE6\PerryCE6\obj\Debug\PerryCE6.pdb
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\PerryCE6\PerryCE6\bin\Debug\PerryCE6.exe.config
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\PerryCE6\PerryCE6\obj\Debug\PerryCE6.exe
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\PerryCE6\PerryCE6\obj\Debug\PerryCE6.pdb
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\PerryCE6\PerryCE6\bin\Debug\PerryCE6.exe
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\PerryCE6\PerryCE6\bin\Debug\PerryCE6.pdb
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\PerryCE6\PerryCE6\obj\Debug\PerryCE6.csprojResolveAssemblyReference.cache

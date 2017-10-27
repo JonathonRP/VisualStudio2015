@@ -1,0 +1,6 @@
+c:\users\reese\documents\visual studio 2015\Projects\PerryPA5\PerryPA5\bin\Release\PerryPA5.exe.config
+c:\users\reese\documents\visual studio 2015\Projects\PerryPA5\PerryPA5\bin\Release\PerryPA5.exe
+c:\users\reese\documents\visual studio 2015\Projects\PerryPA5\PerryPA5\bin\Release\PerryPA5.pdb
+c:\users\reese\documents\visual studio 2015\Projects\PerryPA5\PerryPA5\obj\Release\PerryPA5.csprojResolveAssemblyReference.cache
+c:\users\reese\documents\visual studio 2015\Projects\PerryPA5\PerryPA5\obj\Release\PerryPA5.exe
+c:\users\reese\documents\visual studio 2015\Projects\PerryPA5\PerryPA5\obj\Release\PerryPA5.pdb

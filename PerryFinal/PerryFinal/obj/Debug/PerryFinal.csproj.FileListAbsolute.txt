@@ -1,0 +1,9 @@
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryFinal\PerryFinal\bin\Debug\PerryFinal.exe.config
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryFinal\PerryFinal\bin\Debug\PerryFinal.exe
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryFinal\PerryFinal\bin\Debug\PerryFinal.pdb
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryFinal\PerryFinal\obj\Debug\PerryFinal.csprojResolveAssemblyReference.cache
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryFinal\PerryFinal\obj\Debug\PerryFinal.exe
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryFinal\PerryFinal\obj\Debug\PerryFinal.pdb
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\PerryFinal\PerryFinal\bin\Debug\PerryFinal.exe.config
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\PerryFinal\PerryFinal\obj\Debug\PerryFinal.exe
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\PerryFinal\PerryFinal\obj\Debug\PerryFinal.pdb

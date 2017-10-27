@@ -1,0 +1,6 @@
+c:\users\reese\documents\visual studio 2015\Projects\CE1\CE1\bin\Debug\CE1.exe.config
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\CE1\CE1\bin\Debug\CE1.exe
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\CE1\CE1\bin\Debug\CE1.pdb
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\CE1\CE1\obj\Debug\CE1.csprojResolveAssemblyReference.cache
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\CE1\CE1\obj\Debug\CE1.exe
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\CE1\CE1\obj\Debug\CE1.pdb

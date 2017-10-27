@@ -1,0 +1,6 @@
+c:\users\reese\documents\visual studio 2015\Projects\AddingNumbers\AddingNumbers\bin\Debug\AddingNumbers.exe.config
+c:\users\reese\documents\visual studio 2015\Projects\AddingNumbers\AddingNumbers\obj\Debug\AddingNumbers.csprojResolveAssemblyReference.cache
+c:\users\reese\documents\visual studio 2015\Projects\AddingNumbers\AddingNumbers\bin\Debug\AddingNumbers.exe
+c:\users\reese\documents\visual studio 2015\Projects\AddingNumbers\AddingNumbers\bin\Debug\AddingNumbers.pdb
+c:\users\reese\documents\visual studio 2015\Projects\AddingNumbers\AddingNumbers\obj\Debug\AddingNumbers.exe
+c:\users\reese\documents\visual studio 2015\Projects\AddingNumbers\AddingNumbers\obj\Debug\AddingNumbers.pdb

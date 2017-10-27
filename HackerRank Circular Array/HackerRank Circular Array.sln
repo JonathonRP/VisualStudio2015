@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank Circular Array", "HackerRank Circular Array\HackerRank Circular Array.csproj", "{41398FC2-2362-414A-8D5E-6637E5ADABED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41398FC2-2362-414A-8D5E-6637E5ADABED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41398FC2-2362-414A-8D5E-6637E5ADABED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41398FC2-2362-414A-8D5E-6637E5ADABED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41398FC2-2362-414A-8D5E-6637E5ADABED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

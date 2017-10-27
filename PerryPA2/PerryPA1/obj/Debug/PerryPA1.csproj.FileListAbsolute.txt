@@ -1,0 +1,6 @@
+c:\users\reese\documents\visual studio 2015\Projects\PerryPA1\PerryPA1\bin\Debug\PerryPA1.exe.config
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\PerryPA1\PerryPA1\bin\Debug\PerryPA1.exe
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\PerryPA1\PerryPA1\bin\Debug\PerryPA1.pdb
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\PerryPA1\PerryPA1\obj\Debug\PerryPA1.csprojResolveAssemblyReference.cache
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\PerryPA1\PerryPA1\obj\Debug\PerryPA1.exe
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\PerryPA1\PerryPA1\obj\Debug\PerryPA1.pdb

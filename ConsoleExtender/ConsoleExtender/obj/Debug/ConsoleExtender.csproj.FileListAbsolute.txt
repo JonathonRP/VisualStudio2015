@@ -1,0 +1,5 @@
+c:\users\reese\documents\visual studio 2015\Projects\ConsoleExtender\ConsoleExtender\bin\Debug\ConsoleExtender.dll
+c:\users\reese\documents\visual studio 2015\Projects\ConsoleExtender\ConsoleExtender\bin\Debug\ConsoleExtender.pdb
+c:\users\reese\documents\visual studio 2015\Projects\ConsoleExtender\ConsoleExtender\obj\Debug\ConsoleExtender.csprojResolveAssemblyReference.cache
+c:\users\reese\documents\visual studio 2015\Projects\ConsoleExtender\ConsoleExtender\obj\Debug\ConsoleExtender.dll
+c:\users\reese\documents\visual studio 2015\Projects\ConsoleExtender\ConsoleExtender\obj\Debug\ConsoleExtender.pdb

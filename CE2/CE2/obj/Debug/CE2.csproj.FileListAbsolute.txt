@@ -1,0 +1,6 @@
+c:\users\reese\documents\visual studio 2015\Projects\CE2\CE2\bin\Debug\CE2.exe.config
+c:\users\reese\documents\visual studio 2015\Projects\CE2\CE2\bin\Debug\CE2.exe
+c:\users\reese\documents\visual studio 2015\Projects\CE2\CE2\bin\Debug\CE2.pdb
+c:\users\reese\documents\visual studio 2015\Projects\CE2\CE2\obj\Debug\CE2.csprojResolveAssemblyReference.cache
+c:\users\reese\documents\visual studio 2015\Projects\CE2\CE2\obj\Debug\CE2.exe
+c:\users\reese\documents\visual studio 2015\Projects\CE2\CE2\obj\Debug\CE2.pdb

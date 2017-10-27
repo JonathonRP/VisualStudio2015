@@ -1,0 +1,11 @@
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\ConsolePrompt\ConsolePrompt\bin\Debug\ConsolePrompt.dll
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\ConsolePrompt\ConsolePrompt\bin\Debug\ConsolePrompt.pdb
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\ConsolePrompt\ConsolePrompt\obj\Debug\ConsolePrompt.dll
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\ConsolePrompt\ConsolePrompt\obj\Debug\ConsolePrompt.pdb
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\ConsolePrompt\ConsolePrompt\bin\Debug\ConsolePrompt.XML
+D:\Documents\Visual Studio 2015\Projects\ConsolePrompt\ConsolePrompt\bin\Debug\MyPrompts.xml
+D:\Documents\Visual Studio 2015\Projects\ConsolePrompt\ConsolePrompt\bin\Debug\MyPrompts.dll
+D:\Documents\Visual Studio 2015\Projects\ConsolePrompt\ConsolePrompt\bin\Debug\MyPrompts.pdb
+D:\Documents\Visual Studio 2015\Projects\ConsolePrompt\ConsolePrompt\obj\Debug\MyPrompts.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\ConsolePrompt\ConsolePrompt\obj\Debug\MyPrompts.dll
+D:\Documents\Visual Studio 2015\Projects\ConsolePrompt\ConsolePrompt\obj\Debug\MyPrompts.pdb

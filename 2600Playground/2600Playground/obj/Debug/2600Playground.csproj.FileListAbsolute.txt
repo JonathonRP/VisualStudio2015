@@ -1,0 +1,12 @@
+c:\users\jp5t\documents\visual studio 2015\Projects\2600Playground\2600Playground\bin\Debug\2600Playground.exe.config
+c:\users\jp5t\documents\visual studio 2015\Projects\2600Playground\2600Playground\bin\Debug\2600Playground.exe
+c:\users\jp5t\documents\visual studio 2015\Projects\2600Playground\2600Playground\bin\Debug\2600Playground.pdb
+c:\users\jp5t\documents\visual studio 2015\Projects\2600Playground\2600Playground\obj\Debug\2600Playground.csprojResolveAssemblyReference.cache
+c:\users\jp5t\documents\visual studio 2015\Projects\2600Playground\2600Playground\obj\Debug\2600Playground.exe
+c:\users\jp5t\documents\visual studio 2015\Projects\2600Playground\2600Playground\obj\Debug\2600Playground.pdb
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\2600Playground\2600Playground\bin\Debug\2600Playground.exe.config
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\2600Playground\2600Playground\obj\Debug\2600Playground.exe
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\2600Playground\2600Playground\obj\Debug\2600Playground.pdb
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\2600Playground\2600Playground\bin\Debug\2600Playground.exe
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\2600Playground\2600Playground\bin\Debug\2600Playground.pdb
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\2600Playground\2600Playground\obj\Debug\2600Playground.csprojResolveAssemblyReference.cache

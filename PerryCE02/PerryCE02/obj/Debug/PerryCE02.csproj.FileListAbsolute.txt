@@ -1,0 +1,13 @@
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryCE02\PerryCE02\bin\Debug\PerryCE02.exe.config
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryCE02\PerryCE02\bin\Debug\PerryCE02.exe
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryCE02\PerryCE02\bin\Debug\PerryCE02.pdb
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryCE02\PerryCE02\obj\Debug\PerryCE02.csprojResolveAssemblyReference.cache
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryCE02\PerryCE02\obj\Debug\PerryCE02.exe
+c:\users\jp5t\documents\visual studio 2015\Projects\PerryCE02\PerryCE02\obj\Debug\PerryCE02.pdb
+D:\Documents\Visual Studio 2015\Projects\PerryCE02\PerryCE02\bin\Debug\PerryCE02.exe.config
+D:\Documents\Visual Studio 2015\Projects\PerryCE02\PerryCE02\bin\Debug\PerryCE02.exe
+D:\Documents\Visual Studio 2015\Projects\PerryCE02\PerryCE02\bin\Debug\PerryCE02.pdb
+D:\Documents\Visual Studio 2015\Projects\PerryCE02\PerryCE02\obj\Debug\PerryCE02.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\PerryCE02\PerryCE02\obj\Debug\PerryCE02.exe
+D:\Documents\Visual Studio 2015\Projects\PerryCE02\PerryCE02\obj\Debug\PerryCE02.pdb
+D:\Documents\Visual Studio 2015\Projects\PerryCE02\PerryCE02\obj\Debug\PerryCE02.csproj.CoreCompileInputs.cache

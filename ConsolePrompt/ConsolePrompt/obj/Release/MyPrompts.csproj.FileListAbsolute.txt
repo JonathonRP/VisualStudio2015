@@ -1,0 +1,6 @@
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\ConsolePrompt\ConsolePrompt\obj\Release\MyPrompts.csprojResolveAssemblyReference.cache
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\ConsolePrompt\ConsolePrompt\bin\Release\MyPrompts.xml
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\ConsolePrompt\ConsolePrompt\bin\Release\MyPrompts.dll
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\ConsolePrompt\ConsolePrompt\bin\Release\MyPrompts.pdb
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\ConsolePrompt\ConsolePrompt\obj\Release\MyPrompts.dll
+C:\Users\Reese\Documents\Visual Studio 2015\Projects\ConsolePrompt\ConsolePrompt\obj\Release\MyPrompts.pdb

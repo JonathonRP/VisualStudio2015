@@ -1,0 +1,9 @@
+c:\users\reese\documents\visual studio 2015\Projects\PerryPA3\PerryPA3\bin\Debug\PerryPA3.exe.config
+c:\users\reese\documents\visual studio 2015\Projects\PerryPA3\PerryPA3\bin\Debug\PerryPA3.exe
+c:\users\reese\documents\visual studio 2015\Projects\PerryPA3\PerryPA3\bin\Debug\PerryPA3.pdb
+c:\users\reese\documents\visual studio 2015\Projects\PerryPA3\PerryPA3\obj\Debug\PerryPA3.exe
+c:\users\reese\documents\visual studio 2015\Projects\PerryPA3\PerryPA3\obj\Debug\PerryPA3.pdb
+C:\Users\Reese\documents\visual studio 2015\Projects\PerryPA3\PerryPA3\bin\Debug\ConsolePrompt.dll
+C:\Users\Reese\documents\visual studio 2015\Projects\PerryPA3\PerryPA3\bin\Debug\ConsolePrompt.pdb
+C:\Users\Reese\documents\visual studio 2015\Projects\PerryPA3\PerryPA3\obj\Debug\PerryPA3.csprojResolveAssemblyReference.cache
+C:\Users\Reese\documents\visual studio 2015\Projects\PerryPA3\PerryPA3\bin\Debug\ConsolePrompt.xml

@@ -1,0 +1,6 @@
+c:\users\reese\documents\visual studio 2015\Projects\Playing with files\Playing with files\bin\Debug\Playing with files.exe.config
+c:\users\reese\documents\visual studio 2015\Projects\Playing with files\Playing with files\bin\Debug\Playing with files.exe
+c:\users\reese\documents\visual studio 2015\Projects\Playing with files\Playing with files\bin\Debug\Playing with files.pdb
+c:\users\reese\documents\visual studio 2015\Projects\Playing with files\Playing with files\obj\Debug\Playing with files.csprojResolveAssemblyReference.cache
+c:\users\reese\documents\visual studio 2015\Projects\Playing with files\Playing with files\obj\Debug\Playing with files.exe
+c:\users\reese\documents\visual studio 2015\Projects\Playing with files\Playing with files\obj\Debug\Playing with files.pdb

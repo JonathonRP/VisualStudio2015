@@ -1,0 +1,6 @@
+c:\users\reese\documents\visual studio 2015\Projects\LinqPlayGround\LinqPlayGround\bin\Debug\LinqPlayGround.exe.config
+c:\users\reese\documents\visual studio 2015\Projects\LinqPlayGround\LinqPlayGround\bin\Debug\LinqPlayGround.exe
+c:\users\reese\documents\visual studio 2015\Projects\LinqPlayGround\LinqPlayGround\bin\Debug\LinqPlayGround.pdb
+c:\users\reese\documents\visual studio 2015\Projects\LinqPlayGround\LinqPlayGround\obj\Debug\LinqPlayGround.exe
+c:\users\reese\documents\visual studio 2015\Projects\LinqPlayGround\LinqPlayGround\obj\Debug\LinqPlayGround.pdb
+C:\Users\Reese\documents\visual studio 2015\Projects\LinqPlayGround\LinqPlayGround\obj\Debug\LinqPlayGround.csprojResolveAssemblyReference.cache

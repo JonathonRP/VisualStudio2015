@@ -1,0 +1,6 @@
+c:\users\reese\documents\visual studio 2015\Projects\Find Digits\Find Digits\bin\Debug\Find Digits.exe.config
+c:\users\reese\documents\visual studio 2015\Projects\Find Digits\Find Digits\bin\Debug\Find Digits.exe
+c:\users\reese\documents\visual studio 2015\Projects\Find Digits\Find Digits\bin\Debug\Find Digits.pdb
+c:\users\reese\documents\visual studio 2015\Projects\Find Digits\Find Digits\obj\Debug\Find Digits.csprojResolveAssemblyReference.cache
+c:\users\reese\documents\visual studio 2015\Projects\Find Digits\Find Digits\obj\Debug\Find Digits.exe
+c:\users\reese\documents\visual studio 2015\Projects\Find Digits\Find Digits\obj\Debug\Find Digits.pdb

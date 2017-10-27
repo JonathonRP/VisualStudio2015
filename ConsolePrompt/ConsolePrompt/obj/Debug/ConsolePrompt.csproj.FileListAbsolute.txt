@@ -1,0 +1,5 @@
+c:\users\reese\documents\visual studio 2015\Projects\ConsolePrompt\ConsolePrompt\bin\Debug\ConsolePrompt.dll
+c:\users\reese\documents\visual studio 2015\Projects\ConsolePrompt\ConsolePrompt\bin\Debug\ConsolePrompt.pdb
+c:\users\reese\documents\visual studio 2015\Projects\ConsolePrompt\ConsolePrompt\obj\Debug\ConsolePrompt.csprojResolveAssemblyReference.cache
+c:\users\reese\documents\visual studio 2015\Projects\ConsolePrompt\ConsolePrompt\obj\Debug\ConsolePrompt.dll
+c:\users\reese\documents\visual studio 2015\Projects\ConsolePrompt\ConsolePrompt\obj\Debug\ConsolePrompt.pdb

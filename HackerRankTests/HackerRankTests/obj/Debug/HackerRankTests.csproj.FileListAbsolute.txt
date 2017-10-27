@@ -1,0 +1,6 @@
+c:\users\reese\documents\visual studio 2015\Projects\HackerRankTests\HackerRankTests\bin\Debug\HackerRankTests.exe.config
+c:\users\reese\documents\visual studio 2015\Projects\HackerRankTests\HackerRankTests\bin\Debug\HackerRankTests.exe
+c:\users\reese\documents\visual studio 2015\Projects\HackerRankTests\HackerRankTests\bin\Debug\HackerRankTests.pdb
+c:\users\reese\documents\visual studio 2015\Projects\HackerRankTests\HackerRankTests\obj\Debug\HackerRankTests.csprojResolveAssemblyReference.cache
+c:\users\reese\documents\visual studio 2015\Projects\HackerRankTests\HackerRankTests\obj\Debug\HackerRankTests.exe
+c:\users\reese\documents\visual studio 2015\Projects\HackerRankTests\HackerRankTests\obj\Debug\HackerRankTests.pdb

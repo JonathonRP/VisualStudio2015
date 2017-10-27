@@ -1,0 +1,6 @@
+c:\users\reese\documents\visual studio 2015\Projects\Agent 007\Agent 007\bin\Debug\Agent 007.exe.config
+c:\users\reese\documents\visual studio 2015\Projects\Agent 007\Agent 007\bin\Debug\Agent 007.exe
+c:\users\reese\documents\visual studio 2015\Projects\Agent 007\Agent 007\bin\Debug\Agent 007.pdb
+c:\users\reese\documents\visual studio 2015\Projects\Agent 007\Agent 007\obj\Debug\Agent 007.csprojResolveAssemblyReference.cache
+c:\users\reese\documents\visual studio 2015\Projects\Agent 007\Agent 007\obj\Debug\Agent 007.exe
+c:\users\reese\documents\visual studio 2015\Projects\Agent 007\Agent 007\obj\Debug\Agent 007.pdb
