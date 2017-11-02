@@ -71,21 +71,23 @@ namespace PerryCostumeDataSet
 
             var avgScary = from c in costumes
                            where c.Scary.Contains("yes")
-                           select Convert.ToInt32(c.Cost);
+                           select c.Cost;
 
             var avgNonScary = from c in costumes
                            where c.Scary.Contains("no")
-                           select Convert.ToInt32(c.Cost);
+                           select c.Cost;
 
             richTextBox1.Clear();
             richTextBox1.Text += $"Scary Average: {avgScary.Average()}";
             richTextBox1.Text += "\n";
             richTextBox1.Text += $"nonScary Average: {avgNonScary.Average()}";
+            richTextBox1.Text += "\n";
 
-            if (numericUpDown1.Value != 0 || numericUpDown2.Value != 0)
+            if (numericUpDown2.Value != 0)
             {
                 var BetweenMinMax = from c in costumes
                                     where c.Cost >= minValue && c.Cost <= maxValue
+                                    orderby c.Cost ascending
                                     select c;
 
                 var Top3 = (from c in costumes
@@ -97,9 +99,11 @@ namespace PerryCostumeDataSet
                     richTextBox1.AppendText($"{c.Cost:C}\n");
                 }
 
+                int i = 1;
                 foreach (Costume c in Top3)
                 {
-                    richTextBox1.AppendText($"{c.Cost:C}{c.Name}{c.TotalSales:C}\n");
+                    richTextBox1.AppendText($"Top{i}: {c.Cost:C}{c.Name}{c.TotalSales:C}\n");
+                    i++;
                 }
             }
         }
