@@ -32,11 +32,6 @@ namespace PerryCostumeDataSet
 
         private void Process()
         {
-            if(textBox1.Text == "")
-            {
-                MessageBox.Show("Error", "Try Again", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
-            }
-
             using (StreamReader file = new StreamReader(textBox1.Text))
             {
                 while (!file.EndOfStream)
@@ -109,6 +104,34 @@ namespace PerryCostumeDataSet
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             System.Diagnostics.Process.Start(textBox1.Text);
+        }
+
+        private void textBox1_Validating(object sender, CancelEventArgs e)
+        {
+            errorProvider1.SetIconPadding(textBox1, 5);
+
+            if (textBox1.Text == "")
+            {
+                e.Cancel = true;
+                errorProvider1.SetError(textBox1, "Error, pick a file");
+            }
+
+            else if (!(File.Exists(textBox1.Text)))
+            {
+                e.Cancel = true;
+                errorProvider1.SetError(textBox1, $"{textBox1.Text} is not a file");
+            }
+        }
+
+        private void textBox1_Validated(object sender, EventArgs e)
+        {
+            errorProvider1.Clear();
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            e.Cancel = false;
+            errorProvider1.Clear();
         }
     }
 }
