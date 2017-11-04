@@ -24,9 +24,7 @@ namespace PerryCostumeDataSet
 
         private void textBox1_Click(object sender, EventArgs e)
         {
-            DialogResult result = openFileDialog1.ShowDialog();
-
-            if (result == DialogResult.OK)
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 textBox1.Text = openFileDialog1.FileName;
             }
@@ -106,6 +104,11 @@ namespace PerryCostumeDataSet
                     i++;
                 }
             }
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start(textBox1.Text);
         }
     }
 }
